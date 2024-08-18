@@ -42,3 +42,5 @@ class Credentials:
     def create_conflict_main(self):
         print(2)
     
+    def merge_lidar_create(self):
+        pass    
