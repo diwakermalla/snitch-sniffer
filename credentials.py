@@ -28,6 +28,12 @@ class Credentials:
         print('test1111')
         pass
 
+    def manual_merge2(self):
+        pass
+
+    def manual_merge2_main(self):
+        pass
+
     
 
     
