@@ -16,3 +16,7 @@ class Credentials:
 
     def instance_method(self):
         print('instance method')
+
+
+    def merge_test(self):
+        pass
