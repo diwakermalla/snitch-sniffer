@@ -39,4 +39,5 @@ class Credentials:
         print(1)
         print(1)
 
-    
+    def merge_lidar_create(self):
+        pass    
