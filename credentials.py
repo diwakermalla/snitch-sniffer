@@ -23,3 +23,11 @@ class Credentials:
     def create_config(self):
         author = 1
         pass
+
+    def manual_merge1(self):
+        print('test1111')
+        pass
+
+    
+
+    
