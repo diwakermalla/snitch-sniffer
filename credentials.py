@@ -17,6 +17,6 @@ class Credentials:
     def instance_method(self):
         print('instance method')
 
-
     def create_config(self):
+        author = 1
         pass
