@@ -14,33 +14,3 @@ class Credentials:
     def class_method(cls):
         print(cls.author)
 
-    def instance_method(self):
-        print('instance method')
-
-    def merge_test(self):
-        pass
-
-    def create_config(self):
-        author = 1
-        pass
-
-    def manual_merge1(self):
-        print('test1111')
-        pass
-
-    def manual_merge2(self):
-        pass
-
-    def manual_merge2_main(self):
-        pass
-
-    def merge_test_from_lidar(self):
-        print(1)
-        print(1)
-        print(1)
-
-    def create_conflict_main(self):
-        print(2)
-    
-    def merge_lidar_create(self):
-        pass    
