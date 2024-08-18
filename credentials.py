@@ -34,6 +34,9 @@ class Credentials:
     def manual_merge2_main(self):
         pass
 
-    
+    def merge_test_from_lidar(self):
+        print(1)
+        print(1)
+        print(1)
 
     
