@@ -39,4 +39,6 @@ class Credentials:
         print(1)
         print(1)
 
+    def create_conflict_main(self):
+        print(2)
     
