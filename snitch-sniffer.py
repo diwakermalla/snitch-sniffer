@@ -5,3 +5,6 @@ def snitch():
 
 def test():
     pass
+
+def measure_height():
+    pass
