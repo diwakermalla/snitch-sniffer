@@ -17,6 +17,9 @@ class Credentials:
     def instance_method(self):
         print('instance method')
 
+    def merge_test(self):
+        pass
+
     def create_config(self):
         author = 1
         pass
